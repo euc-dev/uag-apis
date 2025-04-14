@@ -146,4 +146,7 @@ markdown_extensions:
 
 # Navigation
 nav:
-  - index.md
+  - Omnissa UAG APIs: 'index.md'
+  - Getting Started Guide: 'getting-started-guide.md'
+  - Sample :API Usage Reference: 'sample-api-usage-reference.md'
+  - API Reference: 'api-reference.md'
