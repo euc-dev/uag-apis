@@ -146,6 +146,7 @@ markdown_extensions:
 
 # Navigation
 nav:
+  - UAG APIs: 'index.md'
   - Getting Started Guide: 'getting-started-guide.md'
   - API Reference: 'api-reference.md'
   - Sample API Usage Reference: 'sample-api-usage-reference.md'
