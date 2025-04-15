@@ -1,6 +1,6 @@
 ---
 layout: page
-title: UAG REST APIs
+title: Unified Access Gateway APIs
 hide:
   #- navigation
   - toc
