@@ -15,5 +15,5 @@ The Omnissa Unified Access Gateway API documentation describes how to utilize th
 The most used Unified Access Gateway API endpoints, along with examples and detailed description are provided in the [Getting Started Guide](getting-started-guide.md) page. All API endpoints are provided in the [API Reference](api-reference.md) page.
 
 **NOTE:** 
-- The REST APIs listed are currently in beta and subject to change. These listed APIs are applicable only for UAG v2503\+
+- The REST APIs listed are currently in beta and subject to change. These listed APIs are applicable only for UAG v2503+.  
 - The Admin APIs are designed for low-frequency operational tasks and are not intended to be invoked in rapid succession. Callers should wait for a request to complete before issuing the next call.
